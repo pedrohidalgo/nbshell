@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "https://netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="sh">
+                <attr name="SystemFileSystem.localizingBundle" stringvalue="com.qualixium.nbshell.Bundle"/>
+                <folder name="FontsColors">
+                    <folder name="NetBeans">
+                        <folder name="Defaults">
+                            <file name="ShellScriptFontAndColors.xml" url="ShellScriptFontAndColors.xml">
+                                <attr name="SystemFileSystem.localizingBundle" stringvalue="com.qualixium.nbshell.Bundle"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+
+    <folder name="OptionsDialog">
+        <folder name="PreviewExamples">
+            <folder name="text">
+                <file name="sh" url="ShellScriptTemplate.sh"/>
+            </folder>
+        </folder>
+    </folder>
+    
+</filesystem>
