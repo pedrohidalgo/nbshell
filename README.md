@@ -14,3 +14,8 @@ export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 ....
 echo "finished ..."
 ```
+
+### Build:
+
+Execute the command `maven clean install -U` from the project root directory to
+build the project using Maven and import the dependencies.
